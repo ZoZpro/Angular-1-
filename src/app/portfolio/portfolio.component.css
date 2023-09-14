@@ -1,0 +1,10 @@
+.layer{
+    opacity: 0;
+    cursor: pointer;
+    transition: all 0.6s ease;
+}
+
+.layer:hover{
+    opacity: 1;
+}
+

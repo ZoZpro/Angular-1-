@@ -1,0 +1,18 @@
+h3{
+    background-color: tomato;
+    font-size: 30px;
+}
+.btn:hover{
+    background-color: #1abc9c;
+}
+
+.form-control{
+    border-bottom: 2px solid #000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.form-floating label{
+    color: #1abc9c;
+}

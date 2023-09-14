@@ -1,0 +1,7 @@
+.navbar{
+    z-index: 999;
+}
+
+.navbar .navbar-brand, .nav-link{
+    color: #fff;
+}
