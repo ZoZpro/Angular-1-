@@ -19,4 +19,5 @@ constructor(private _MoviesService:MoviesService ){
       },
     })  
 }
+
 }
